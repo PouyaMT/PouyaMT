@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=PouyaMT&&show_icons=true&title_color=ffffff&icon_color=6b21c0&text_color=dadaf7&bg_color=151515"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=PouyaMT&&show_icons=true&title_color=21C074&icon_color=21C074&text_color=DAF7DD&bg_color=151515"></p>
 
 <!--
 **PouyaMT/PouyaMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
